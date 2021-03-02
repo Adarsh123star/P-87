@@ -1,0 +1,25 @@
+h1 {
+    font-family: fantasy;
+    color: blueviolet;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cornflowerblue;
+}
+
+img {
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+h4 {
+   
+    color: royalblue;
+    font-size: 22px;
+}
+button{
+     height: 100px;
+     width: 100px;
+    background-color: blue;
+}
